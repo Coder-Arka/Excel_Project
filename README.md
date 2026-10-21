@@ -9,8 +9,6 @@ An interactive **Sales Performance and Profitability Dashboard built using Micro
 
 ![Excel Executive Summary and Profitability Dashboard](images/dashboard.png)
 
-> **Note:** Upload your dashboard screenshot to the repository under `images/dashboard.png` to display the preview above. You can also replace this path with your actual screenshot filename.
-
 ## 🎯 Project Objectives
 
 - Analyze overall sales performance and profitability.
