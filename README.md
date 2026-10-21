@@ -7,7 +7,8 @@ An interactive **Sales Performance and Profitability Dashboard built using Micro
 
 ## 📸 Dashboard Preview
 
-![Excel Executive Summary and Profitability Dashboard](images/dashboard.png)
+![Excel Executive Summary and Profitability Dashboard](<img width="1398" height="688" alt="Dashboard Pic" src="https://github.com/user-attachments/assets/5e5a9a3b-732e-4995-99eb-7f472be416e2" />
+)
 
 ## 🎯 Project Objectives
 
